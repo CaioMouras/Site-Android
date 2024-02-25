@@ -1,2 +1,2 @@
-# site-android
- Site sobre Android desenvolvido para o curso de HTML5 e CSS3
+# Website about Android
+ Android site developed as a study of HTML5 and CSS3.
